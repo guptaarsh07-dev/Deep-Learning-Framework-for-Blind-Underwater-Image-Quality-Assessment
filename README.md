@@ -24,10 +24,7 @@ Project Structure
 ├── README.md
 Installation
 
-Clone the repository:
 
-git clone https://github.com/your-username/mobilevit-project.git
-cd mobilevit-project
 
 Install dependencies:
 
